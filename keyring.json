@@ -1,120 +1,14 @@
 {
   "formato": 1,
-  "revisione": 8,
-  "aggiornato": "2026-11-24T20:20:20.267Z",
+  "revisione": 9,
+  "aggiornato": "2026-11-24T20:20:35.724Z",
   "kdf": {
     "nome": "PBKDF2-SHA256",
     "iterazioni": 600000
   },
   "token": {
-    "iv": "oysqs5N7LU0MOHFE",
-    "ct": "9iYeby/DbBeaD3th1arF23/VXcd12vp2bX57BK0RJ2bwoANxY5aXs3U0/RmUOds4ztP1V1jT4NPrps+r999flmTUvbci2B88Q+bbo5uLovH/tanU2Ab7Y5B6Ja5DPM8JbenFdVAzNS5TJjWNkw=="
+    "iv": "6a6CpWOAnT2J9fPd",
+    "ct": "7KjDY0GHonokvUdpzcHfHHwFeqUvbFivV8If3YfNZLyvpM7LUSZBm/a/uvntqEz+OiVs0cyLDwr9kaatj3e9oXPhhNQM1eqb9cRHrgXjPCqqR8osca1wrWiJJI/asGfd/DE7uNn9Rdc+wW4WuQ=="
   },
-  "utenti": {
-    "888663967d3cb4aff4835bfe36f03f8a53f83a5b72069c8c2861f0ea3e302de0": {
-      "salt": "ze+kLKBEbRIEqWUi2CJ1MQ==",
-      "chiave": {
-        "iv": "2qFwSEKmFyRHEgvS",
-        "ct": "4GYBr9s0GMbDdxAPgE2jwA2tXESbJEzmS+kOkXP/V9ZOejJgg6qegfkkyuZwUdGO"
-      },
-      "accesso": {
-        "iv": "hHoe3oEzZgdLzDs1",
-        "ct": "ajP5AIM/5wzu9/zMngpb48imzMBfcANGh0pSW7cZLd9v4qpnfbdx1F06zrcgF2wCGGV37GZyluxjS3uIscytCLwwD/aRtgO3Lw9dB7T4i7pFXN9nohRFKfoj04bCYFq8ecWwpPbfo8fq2+cIo23dmzioWhzZpoqo"
-      },
-      "custodia": {
-        "iv": "msTRSOWif9Y4FNJH",
-        "ct": "1fFPHnVPjn2JX5/2mldW0LcuGUTnlXaOyrBjKVzSmFrmesYez8Tuo3E2tzsdrocU"
-      }
-    },
-    "c383078fab9ad5a86c524eb92b9a1abccefb49df40496bf64e2fc4173c881c4e": {
-      "salt": "AoE3KYf/7lIUbs8fq9fZLA==",
-      "chiave": {
-        "iv": "0xPd+B1a6ybubMLF",
-        "ct": "ypoyks2G6D0RNOGiaHxJxfkXAda3gbnjzpG7yRUqTzqv4K2wBnkpePtHFFHJluQ0"
-      },
-      "accesso": {
-        "iv": "B7+qVKODO9Yui5uK",
-        "ct": "c9EbhTa3pi8+07iMLgZFeg7/lJSHCBNU3VZMaQjgKcK+6eDJruxeb4bvw5KfJ5OFe4VelpKZGeOqwqiavNLYOKDKMuI="
-      },
-      "custodia": {
-        "iv": "5dxHT4NlSwZmpYrz",
-        "ct": "5a2G+YkN3ByXetiReYmoHtm5kK526comjYWivijhCz0qDLUaBm7dsz61Q1a5ImqP"
-      }
-    },
-    "ef038a4793bbe76ef57397a92c5c01b32bfca31592755b02281c946eab8b8a91": {
-      "salt": "qah/fxte203/AXS9fvFLOA==",
-      "chiave": {
-        "iv": "b03mXIbrsMxDkiEH",
-        "ct": "tVZsLtknuhA4Cp7mOhdJnGBoDz+WTK+a9h6FF70CefGto4p8vi/wzeuH1Apsq/Iu"
-      },
-      "accesso": {
-        "iv": "wMNbyBM7y5qFwqlG",
-        "ct": "GmahOtu9cuti2b7mM338j0CCkE6PviYhrufOPZYSrilaX9nIRIv8O9TGywst40HMQlEHLv3mqUhPSlGxkhb4ZqUsAXA="
-      },
-      "custodia": {
-        "iv": "FJTeytASQ/GUXBfz",
-        "ct": "wZsi6Hi33nLxt9su2WYLkq4JQbLcwuse4N7QIyE3XJxfEwlFjYDXhIY7uTQnpCRq"
-      }
-    },
-    "94565b28b293f44499c9e52eae3ac3d6d384627891b1e1dc06a7ce54b9190f7b": {
-      "salt": "TQ7Zf5O6IzSjxLWbG46xag==",
-      "chiave": {
-        "iv": "2Bei1lDcZ16R22JC",
-        "ct": "2ZCrhphJABtAYptOwtD063Eliy2bXOS9xDEEE5y2K/Ijs6sFiGbYSf0wAZKA9NTA"
-      },
-      "accesso": {
-        "iv": "lDJMyA7PWL9RDu0H",
-        "ct": "aSd/E/phPHO9K0NhAGKBWa/smPRpogHrDN5bPQ2K34nDNdQ0Zwn4Y5aH4MLBatFfmfBiqw7WcqwNDjw4EmrhTYNqlzo="
-      },
-      "custodia": {
-        "iv": "Mr0QOd7WTcZkpWEh",
-        "ct": "nOJdrPKrTsnIiVVJZwntqaE4H9fmB2LaMaFHmGZbaUp4J9H6waYNL8UNZK9qCcJQ"
-      }
-    },
-    "7cee0dda90159ecd17a02b2e1a97b416dc35d589d6d871a4497134cfd27f0e79": {
-      "salt": "EzvHas7QRocTN7NW/uUUfQ==",
-      "chiave": {
-        "iv": "0WljwZEj1i7bMwnQ",
-        "ct": "SWzYY/4Q1ogAxi+OusJ/GScTVaRhT7IAJ4v81JtUErbPTdtmImzucthnxH2izue6"
-      },
-      "accesso": {
-        "iv": "W0TrGV+rgjhWonKd",
-        "ct": "DE+XQmWAI6MxNy1JztO47kCc+nJAJJvMqhUrlwxSzY8nuYHIKy4Gjr46V3Xt557U4lLh1CYnYIAwtqE7itqgDVLu730="
-      },
-      "custodia": {
-        "iv": "1l1WLAYYYQDlNHL8",
-        "ct": "bDUMR8I4jK2LPhf1eHVHy+MJqBT0fItNsu3L3WYDIwEAqitx30GpBjhB3JogvDEQ"
-      }
-    },
-    "69ccf22d98a1fb382c5a3503b7a82bae4c0656159dd98aa964c3feb732278431": {
-      "salt": "ypnsnnJsjAtRps1ktB1n8A==",
-      "chiave": {
-        "iv": "S9ZNVQsHaaSa59iN",
-        "ct": "M2oEemtEmlV0iuGeAxjDwtAl7/6rBasmC2539lz5OypLILbeVkS15rmEA6WSVSpT"
-      },
-      "accesso": {
-        "iv": "N8UoGUiwNClYAhzO",
-        "ct": "TRpe1H34vsFb6Li3JlYGCZrE13wR7G1TttIhqu/kRxdGXSPewy/BmJKD/GL8LkWdzq5g+uC8jVYALsJ2bleUdbbr820="
-      },
-      "custodia": {
-        "iv": "Mm1cIQFbhmHo/IHN",
-        "ct": "3oHjazjaBTDJ/Y1VOx58nKwptbVXN5i8eUjt5o/O7/MJ3pffuyb99U+4Y70QtI9s"
-      }
-    },
-    "626a7697eb1c2e689fd544fbf79f630c8dfecf34b592567450fada0abdc7f59a": {
-      "salt": "fI9jXBY/Q3EU6Cx5/CRz1Q==",
-      "chiave": {
-        "iv": "ewHh23PTztsotwoh",
-        "ct": "QPBbjh8BNEqiKIWqKPyspiKOQBF9Clv3yin6SKWuNB1DZvx0XUGwi+0FKOJgw23h"
-      },
-      "accesso": {
-        "iv": "woL3nPeGcR6M4NnV",
-        "ct": "x/L7W0WPp/rTedVnO5dSqOMv5bJKl8nDQagA+PhCv5+goF2JiDATe6IbbTZ7VAs+Qq/Qlb0VpRAnFHflC2kqkpdtgok="
-      },
-      "custodia": {
-        "iv": "fHsDKa+8XIk/HF3w",
-        "ct": "XmeyDHcw+5+DbPQeo77Nphtp5cj/fqPVXl6I2mfRX3CrCwvymNlIpflxJLE3HQlm"
-      }
-    }
-  }
+  "utenti": {}
 }
